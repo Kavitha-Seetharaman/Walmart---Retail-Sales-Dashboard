@@ -36,7 +36,7 @@ This project analyzes retail sales performance using Power BI and SQL. The dashb
 ## Dashboard Preview
 
 ### Overview
-![Overview Dashboard](screenshots/overview.png)
+![Overview Dashboard](Overview.png)
 
 ### Detailed Analysis
-![Detailed Dashboard](screenshots/detailed-analysis.png)
+![Detailed Dashboard](Detailed Analysis.png)
